@@ -1,4 +1,5 @@
-#WEB3 pet project for learning solidity
+# WEB3 pet project for learning solidity
+
 create smart contract on solidity 
 lottery project where you can send ticket for play in lottery and pick a winner (random pick winner and send reward in transaction)
 
